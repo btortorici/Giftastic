@@ -1,0 +1,81 @@
+/* @font-face {
+    font-family: "churli cute"; 
+    src: url('http://static.tumblr.com/npggxjg/2UHm0dodm/churli_cute.ttf');
+} */
+
+
+body {
+    font-family: 'bowlby one', cursive;  
+    font-size: 40px;
+    color: yellow;
+    /* text-align: center; */
+    background-image: url("https://cdn.wallpapersafari.com/69/82/1Y0yDJ.gif");
+    
+}
+
+#cartoon-form {
+    font-family: 'bowlby one', cursive;
+    /* float: right; */
+    margin-right: 20px;
+}
+
+#cartoon {
+    font-family: 'bowlby one', cursive;
+    width: 70%;
+}
+
+.cartoon-item {
+    font-family: 'bowlby one', cursive;
+    float: left;
+    padding: 20px;
+}
+
+form {
+    font-family: 'bowlby one', cursive;
+    /* float: right; */
+    /* width: 30%; */
+    padding: 20px;
+}
+
+label {
+    font-family: 'bowlby one', cursive;
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+input[type="text"] {
+    font-family: 'bowlby one', cursive;
+    width: 25%;
+    height: 30px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+button,
+input[type="submit"] {
+    font-family: 'bowlby one', cursive;
+    padding: 5px 20px;
+    margin: 0 10px 10px 0;
+    font-size: 25px;
+    color: red;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+button:hover,
+input[type="submit"]:hover {
+    background: orange (77, 1, 77);
+}
+
+button.active {
+    font-family: 'bowlby one', cursive;
+    background: yellow;
+}
+
+h1 {
+    font-family: 'bowlby one', cursive;
+    font-size: 75px;
+    text-align: center;
+}
+ * {cursor: url(http://cur.cursors-4u.net/toons/too-7/too628.cur), auto !important;} /* End http://www.cursors-4u.com */
